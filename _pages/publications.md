@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
+<style type="text/css"> .bibbase_note { color: blue;} .note { color: green; font-style: italic; } </style> <script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/davilac/davilac.github.io/master/files/biblio.bib&jsonp=1&css=https://raw.githubusercontent.com/davilac/davilac.github.io/master/files/bibbase.css&group0=custom_type&folding=0&nocache=1"></script>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}

@@ -10,55 +10,35 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+===============
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+|<img width=20/>|     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2022| Ph.D. in Medical Sciences |Osaka university|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2018| M.Eng in Life Science |Kyoto University|
+|<img style='border:1px solid #000000' src="/images/peru_flag.png" width="20" height="15">|2009| B.E. in Electronic Engineering|National University of San Antonio Abad of Cusco|
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Positions
+===============
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+|<img width=20/>|     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2022/09 --- Today| Postdoctoral Researcher |Nagoya university|
+
+
+
+Scholarships & Fellowhips
+===============
+
+|<img width=20/>|     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015-2018|Japanese Government Postgraduate Scholarship|Ministry of Education, Culture, Sports, Science and Technology|
+
+Research grants
+===============
+
+|<img width=20/>|     |     |     |
+| --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2023-2024 |AIP Challenge Program|Japan Science and Technology Agency|
+

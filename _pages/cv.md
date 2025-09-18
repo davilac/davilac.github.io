@@ -40,5 +40,7 @@ Research grants
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2025-2027 |Grant-in-Aid for Early-Career Scientists <br> [25K21247](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-25K21247/)|Japan Society for the Promotion of Science|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2025-2026 |AIP Challenge Program|Japan Science and Technology Agency|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2023-2024 |AIP Challenge Program|Japan Science and Technology Agency|
 

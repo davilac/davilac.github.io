@@ -2,9 +2,6 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 I am a Postdoctoral researcher at the Institutes of Innovation for Future Society, Nagoya University, Nagoya, Japan. I work in the [Intelligent Robotics and Biomechatronics Laboratory](https://www.mein.nagoya-u.ac.jp/), where I focus on developing intelligent applications for robotic systems to assist humans in the medical domain. My research interests include intelligent systems, medical robotics, smart assistive technologies, and bioinformatics.

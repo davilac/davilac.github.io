@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -113,11 +113,10 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : OOtOaNDDe1MnyLMsRjzgN9ZDvO1FiOi_5amMvbv4_CI
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
-
 
 # Social Sharing
 twitter:
